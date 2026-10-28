@@ -1,0 +1,21 @@
+# Compiled executables
+*.exe
+*.o
+*.obj
+
+# Python cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and editor
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Downloaded market data and generated outputs
+prices.csv
+backtest_results.csv
